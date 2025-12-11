@@ -98,7 +98,7 @@ export const StoryMapView: React.FC<StoryMapViewProps> = ({ onDeepLinkClick }) =
     useEffect(() => {
         const loadMarkdown = async () => {
             try {
-                const response = await fetch('/STORY_MAPPING.md');
+                const response = await fetch(`${import.meta.env.BASE_URL}STORY_MAPPING.md`);
                 if (!response.ok) throw new Error('Arquivo STORY_MAPPING.md não encontrado');
                 const text = await response.text();
                 const parsedColumns = parseMarkdown(text);
