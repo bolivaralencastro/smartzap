@@ -1,0 +1,42 @@
+graph TB
+    Start([Início]) --> Notification[Notificação WhatsApp]
+    Notification --> UserClick{Usuário clica<br/>no link?}
+    
+    UserClick -->|Sim| WebRedirect[Redirecionamento Web]
+    UserClick -->|Não| End1([Fim])
+    
+    WebRedirect --> ContentType{Tipo de<br/>Conteúdo}
+    
+    ContentType -->|Quiz Avaliativo| QuizEval[Exibir Quiz]
+    ContentType -->|Pesquisa| Survey[Exibir Pesquisa]
+    ContentType -->|NPS| NPS[Exibir NPS]
+    ContentType -->|Conteúdo| Content[Exibir Conteúdo]
+    
+    QuizEval --> Answer1[Usuário Responde]
+    Survey --> Answer2[Usuário Responde]
+    NPS --> Answer3[Usuário Responde]
+    Content --> Consume[Usuário Consome]
+    
+    Answer1 --> Result1[Exibir Resultado]
+    Answer2 --> Result2[Agradecimento]
+    Answer3 --> Result3[Agradecimento]
+    Consume --> Complete[Conclusão]
+    
+    Result1 --> End2([Fim])
+    Result2 --> End2
+    Result3 --> End2
+    Complete --> End2
+    
+    style Start fill:#10b981,stroke:#059669,stroke-width:2px,color:#fff
+    style End1 fill:#ef4444,stroke:#dc2626,stroke-width:2px,color:#fff
+    style End2 fill:#10b981,stroke:#059669,stroke-width:2px,color:#fff
+    style Notification fill:#3b82f6,stroke:#2563eb,stroke-width:2px,color:#fff
+    style WebRedirect fill:#3b82f6,stroke:#2563eb,stroke-width:2px,color:#fff
+    style QuizEval fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#fff
+    style Survey fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#fff
+    style NPS fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#fff
+    style Content fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#fff
+    style Result1 fill:#06b6d4,stroke:#0891b2,stroke-width:2px,color:#fff
+    style Result2 fill:#06b6d4,stroke:#0891b2,stroke-width:2px,color:#fff
+    style Result3 fill:#06b6d4,stroke:#0891b2,stroke-width:2px,color:#fff
+    style Complete fill:#06b6d4,stroke:#0891b2,stroke-width:2px,color:#fff

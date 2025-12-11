@@ -1,0 +1,164 @@
+Id,Nome,Biblioteca de formas,ID da p´ágina,Contido por,Grupo,Status,Área de texto 1,Área de texto 2,Comentários,Assignee,Description,End Date,Estimate,Start Date,Status,T-shirt size,Title
+1,Documento,,,,,Rascunho,Quizzes de pesquisa,,,,,,,,,,
+2,Página,,,,,,Page 1,,,,,,,,,,
+3,LucidCardBlock,,2,,,,"Com as permissões de criação de conteúdo, quero criar um quiz de pesquisa coletar INFORMAÇÕES QUALITATIVAS dos usuários
+","Posso criar quizzes com perguntas abertas (Open-Ended Question). 
+Não há limite para a criação desse tipo de quiz. 
+Posso configurar apenas o nome da lição e a pergunta. 
+Perguntas de multipla escolha terão o nome da lição, a pergunta, e suas alternativas. 
+As respostas não irão interferir na performance dos usuários respondentes. 
+Posso adicionar emojis, negrito, italico, sublinhado e taxado no título e na descrição das questões.
+",,,"Posso criar quizzes com perguntas abertas (Open-Ended Question). 
+Não há limite para a criação desse tipo de quiz. 
+Posso configurar apenas o nome da lição e a pergunta. 
+Perguntas de multipla escolha terão o nome da lição, a pergunta, e suas alternativas. 
+As respostas não irão interferir na performance dos usuários respondentes. 
+Posso adicionar emojis, negrito, italico, sublinhado e taxado no título e na descrição das questões.
+",,,,To Do,,"Com as permissões de criação de conteúdo, quero criar um quiz de pesquisa coletar INFORMAÇÕES QUALITATIVAS dos usuários
+"
+4,Nota adesiva,Notas adesivas,2,,,,Quizes de Pesquisa ,,,,,,,,,,
+5,LucidCardBlock,,2,,,,"Como um usuário matriculado em um curso do Smartzap, quero responder as pesquisas qualitativas de opinião dos cursos que estou consumindo
+","Irei receber um link de redirecionamento para responder o quiz. 
+Posso escrever até 2000 caracteres nas perguntas abertas (Open-Ended Question). 
+Posso voltar para o fluxo de conversa no WhatsApp. 
+Não posso finalizar o curso sem responder as pesquisas.",,,"Irei receber um link de redirecionamento para responder o quiz. 
+Posso escrever até 2000 caracteres nas perguntas abertas (Open-Ended Question). 
+Posso voltar para o fluxo de conversa no WhatsApp. 
+Não posso finalizar o curso sem responder as pesquisas.",,,,To Do,,"Como um usuário matriculado em um curso do Smartzap, quero responder as pesquisas qualitativas de opinião dos cursos que estou consumindo
+"
+6,LinkUnfurlBlock,,2,,,,Quiz do tipo avaliação,Google Docs,,,,,,,,,
+7,Nota adesiva,Notas adesivas,2,,,,precisamos avaliar se faremos novos relatórios,,,,,,,,,,
+8,Nota adesiva,Notas adesivas,2,,,,NOVO TIPO DE QUIZ,,,,,,,,,,
+9,LucidCardBlock,,2,,,,"Com as permissões de criação de conteúdo, quero criar um quiz de pesquisa coletar INFORMAÇÕES QUANTITATIVAS dos usuários
+","Posso criar quizzes com perguntas de múltipla escolha (Single-Select Multiple Choice). 
+Não há limite para a criação desse tipo de quiz. 
+Posso configurar o nome da lição, a pergunta, e suas alternativas. 
+Posso definir até 5 alternativas para cada pergunta. 
+Não há a possibilidade de escolher qual é a alternativa correta. 
+As respostas não irão interferir na performance dos usuários respondentes. 
+Posso adicionar emojis, negrito, italico, sublinhado e taxado no título e na descrição das questões.
+",,,"Posso criar quizzes com perguntas de múltipla escolha (Single-Select Multiple Choice). 
+Não há limite para a criação desse tipo de quiz. 
+Posso configurar o nome da lição, a pergunta, e suas alternativas. 
+Posso definir até 5 alternativas para cada pergunta. 
+Não há a possibilidade de escolher qual é a alternativa correta. 
+As respostas não irão interferir na performance dos usuários respondentes. 
+Posso adicionar emojis, negrito, italico, sublinhado e taxado no título e na descrição das questões.
+",,,,To Do,,"Com as permissões de criação de conteúdo, quero criar um quiz de pesquisa coletar INFORMAÇÕES QUANTITATIVAS dos usuários
+"
+10,LucidCardBlock,,2,,,,"Como um usuário matriculado em um curso do Smartzap, quero responder as pesquisas quantitativas de opinião dos cursos que estou consumindo
+","Irei receber um link de redirecionamento para responder o quiz. 
+Posso selecionar apenas uma alternativa nas perguntas de multipla escolha (Single-Select Multiple Choice). 
+Não há alternativa correta, portanto, não receberei feedback em nenhuma resposta.  
+Posso voltar para o fluxo de conversa no WhatsApp. 
+Não posso finalizar o curso sem responder as pesquisas.",,,"Irei receber um link de redirecionamento para responder o quiz. 
+Posso selecionar apenas uma alternativa nas perguntas de multipla escolha (Single-Select Multiple Choice). 
+Não há alternativa correta, portanto, não receberei feedback em nenhuma resposta.  
+Posso voltar para o fluxo de conversa no WhatsApp. 
+Não posso finalizar o curso sem responder as pesquisas.",,,,To Do,,"Como um usuário matriculado em um curso do Smartzap, quero responder as pesquisas quantitativas de opinião dos cursos que estou consumindo
+"
+11,LucidCardBlock,,2,,,,"Como um usuário matriculado em um curso do Smartzap que precisa responder uma pesquisa de opinião, seje ela quantitativa ou qualitativa, quero receber uma NOVA MENSAGEM me direcionando para a pesquisa
+","Irei receber uma mensagem que irá me redirecionar aos quizzes de pesquisa de um curso. 
+Ela será usada para quizzes com perguntas abertas, de multipla escolha e de NPS.",,,"Irei receber uma mensagem que irá me redirecionar aos quizzes de pesquisa de um curso. 
+Ela será usada para quizzes com perguntas abertas, de multipla escolha e de NPS.",,,,To Do,,"Como um usuário matriculado em um curso do Smartzap que precisa responder uma pesquisa de opinião, seje ela quantitativa ou qualitativa, quero receber uma NOVA MENSAGEM me direcionando para a pesquisa
+"
+12,LucidCardBlock,,2,,,,"Como um administrador do smartzap que possui QUIZZES AVALIATIVOS nos meus cursos, quero que o sistema envie uma mensagem personalizada com os resultados e de agradecimento para os usuários que finalizarem o questionário
+","A cor de fundo da da mensagem respeitará cor primária da workspace. 
+A mensagem terá o logo da workspace. 
+Não posso personalizar o texto.",,,"A cor de fundo da da mensagem respeitará cor primária da workspace. 
+A mensagem terá o logo da workspace. 
+Não posso personalizar o texto.",,,,To Do,,"Como um administrador do smartzap que possui QUIZZES AVALIATIVOS nos meus cursos, quero que o sistema envie uma mensagem personalizada com os resultados e de agradecimento para os usuários que finalizarem o questionário
+"
+13,LucidCardBlock,,2,,,,"Como um administrador do smartzap que possui PESQUISAS DE OPINIÃO nos meus cursos, quero que o sistema envie uma mensagem personalizada de agradecimento para os usuários que finalizarem o questionário
+","A cor de fundo da da mensagem respeitará cor primária da workspace. 
+A mensagem terá o logo da workspace. 
+Não posso personalizar o texto.",,,"A cor de fundo da da mensagem respeitará cor primária da workspace. 
+A mensagem terá o logo da workspace. 
+Não posso personalizar o texto.",,,,To Do,,"Como um administrador do smartzap que possui PESQUISAS DE OPINIÃO nos meus cursos, quero que o sistema envie uma mensagem personalizada de agradecimento para os usuários que finalizarem o questionário
+"
+14,Nota adesiva,Notas adesivas,2,,,,Criação de nova mensagens e ajustes,,,,,,,,,,
+15,Nota adesiva,Notas adesivas,2,,,,personalização da mensagem final,,,,,,,,,,
+16,Imagem do usuário,Imagens do Usuário,2,,,,,,,,,,,,,,
+17,Imagem do usuário,Imagens do Usuário,2,,54,,,,,,,,,,,,
+18,Retângulo,,2,,54,,[QUIZ_SEARCH_NAME],,,,,,,,,,
+19,Retângulo,,2,,54,,[QUIZ_SEARCH_QUESTION],,,,,,,,,,
+20,Retângulo,,2,,54,,[QUESTION_ALTERNATIVE],,,,,,,,,,
+21,Retângulo,,2,,54,,[QUESTION_ALTERNATIVE],,,,,,,,,,
+22,Retângulo,,2,,54,,[QUESTION_ALTERNATIVE],,,,,,,,,,
+23,Retângulo,,2,,54,,[QUESTION_ALTERNATIVE],,,,,,,,,,
+24,Imagem do usuário,Imagens do Usuário,2,,55,,,,,,,,,,,,
+25,Retângulo,,2,,55,,[QUIZ_SEARCH_NAME],,,,,,,,,,
+26,Retângulo,,2,,55,,[QUIZ_SEARCH_QUESTION],,,,,,,,,,
+27,Retângulo,,2,,55,,,,,,,,,,,,
+28,Retângulo,,2,,55,,Deixe seu comentário aqui ...,,,,,,,,,,
+29,Imagem do usuário,Imagens do Usuário,2,,,,,,,,,,,,,,
+30,Retângulo,,2,,,,[QUIZ_SEARCH_NAME],,,,,,,,,,
+31,Retângulo,,2,,,,workspace_color,,,,,,,,,,
+32,Imagem do usuário,Imagens do Usuário,2,,,,,,,,,,,,,,
+33,Retângulo,,2,,,,[WORKSAPCE _LOGO],,,,,,,,,,
+34,Texto,Padrão,2,,,,"Obrigado por responder, sua 
+opnião é muito importante para nós",,,,,,,,,,
+35,Imagem do usuário,Imagens do Usuário,2,,,,,,,,,,,,,,
+36,Retângulo,,2,,,,PESQUISA DE SATISFAÇÃO,,,,,,,,,,
+37,Retângulo,,2,,,,,,,,,,,,,,
+38,Imagem do usuário,Imagens do Usuário,2,,,,,,,,,,,,,,
+39,Texto,Padrão,2,,,,"Obrigado por responder, sua 
+opnião é muito importante para nós",,,,,,,,,,
+40,Imagem do usuário,Imagens do Usuário,2,,,,,,,,,,,,,,
+41,LucidCardBlock,,2,,,,"Como um usuário matriculado em um curso do Smartzap que precisa responder um quiz avaliativo, quero receber uma mensagem mas clara que me direcione para o questionário
+",Irei receber uma mensagem que irá me redirecionar ao quiz avaliativo do curso.,,,Irei receber uma mensagem que irá me redirecionar ao quiz avaliativo do curso.,,,,To Do,,"Como um usuário matriculado em um curso do Smartzap que precisa responder um quiz avaliativo, quero receber uma mensagem mas clara que me direcione para o questionário
+"
+42,Imagem do usuário,Imagens do Usuário,2,,,,,,,,,,,,,,
+43,Imagem do usuário,Imagens do Usuário,2,,,,,,,,,,,,,,
+44,Imagem do usuário,Imagens do Usuário,2,,,,,,,,,,,,,,
+45,LinkUnfurlBlock,,2,,,,Fluxo Whatsapp,Lucidchart,,,,,,,,,
+46,Texto,Padrão,2,,,,"  Olá [USER_FIRST_NAME]!
+
+[QUIZ_NAME]
+
+[QUIZ_DESCRIPTION]
+
+  Responda o quiz por aqui:
+https://keeps.page.link/JN3a",,,,,,,,,,
+47,Texto,Padrão,2,,,,"  Olá [USER_FIRST_NAME]!
+
+[QUIZ_NAME]
+
+[QUIZ_DESCRIPTION]
+
+  Responda a pesquisa por aqui:
+https://keeps.page.link/JN3a",,,,,,,,,,
+48,LucidCardBlock,,2,,,,"Com as permissões de criação de conteúdo, quero criar um quiz de pesquisa para coletar o NPS do curso
+","Posso criar quizzes com perguntas direcionadas a coleta do NPS de um curso. 
+Posso criar apenas um quiz de NPS por curso. 
+Posso selecionar a escala do meu quiz de NPS, sendo ela de 0 a 10 ou de 0 a 5. 
+Para calculá-lo, o sistema irá classificar as respostas em detratores, neutros e promotores, calcular o percentual de cada grupo e fazer: NPS = % de promotores – % de detratores. O resultado varia de –100 a +100. 
+Na escala de 0 a 10, notas de 0 a 6 são detratores, 7 e 8 são neutros e 9 e 10 são promotores. Depois de calcular o percentual de cada grupo, aplica-se a fórmula do NPS. 
+Na escala de 0 a 5, notas de 0 a 3 são detratores, 4 é neutro e 5 são promotores. Depois de calcular o percentual de cada grupo, aplica-se a fórmula do NPS. 
+Posso adicionar emojis, negrito, italico, sublinhado e taxado no título e na descrição das questões.
+",,,"Posso criar quizzes com perguntas direcionadas a coleta do NPS de um curso. 
+Posso criar apenas um quiz de NPS por curso. 
+Posso selecionar a escala do meu quiz de NPS, sendo ela de 0 a 10 ou de 0 a 5. 
+Para calculá-lo, o sistema irá classificar as respostas em detratores, neutros e promotores, calcular o percentual de cada grupo e fazer: NPS = % de promotores – % de detratores. O resultado varia de –100 a +100. 
+Na escala de 0 a 10, notas de 0 a 6 são detratores, 7 e 8 são neutros e 9 e 10 são promotores. Depois de calcular o percentual de cada grupo, aplica-se a fórmula do NPS. 
+Na escala de 0 a 5, notas de 0 a 3 são detratores, 4 é neutro e 5 são promotores. Depois de calcular o percentual de cada grupo, aplica-se a fórmula do NPS. 
+Posso adicionar emojis, negrito, italico, sublinhado e taxado no título e na descrição das questões.
+",,,,To Do,,"Com as permissões de criação de conteúdo, quero criar um quiz de pesquisa para coletar o NPS do curso
+"
+49,LucidCardBlock,,2,,,,"Como um usuário matriculado em um curso do Smartzap, quero responder ao NPS do curso
+","Irei receber um link de redirecionamento para responder o quiz. 
+Posso selecionar apenas uma nota em qualquer tipo de escala de NPS. 
+Não há alternativa correta, portanto, não receberei feedback em nenhuma resposta.  
+Posso voltar para o fluxo de conversa no WhatsApp. 
+Não posso finalizar o curso sem responder as pesquisas.",,,"Irei receber um link de redirecionamento para responder o quiz. 
+Posso selecionar apenas uma nota em qualquer tipo de escala de NPS. 
+Não há alternativa correta, portanto, não receberei feedback em nenhuma resposta.  
+Posso voltar para o fluxo de conversa no WhatsApp. 
+Não posso finalizar o curso sem responder as pesquisas.",,,,To Do,,"Como um usuário matriculado em um curso do Smartzap, quero responder ao NPS do curso
+"
+50,Retângulo,,2,,,,Ajustes no fluxo do NPS,,,,,,,,,,
+51,Retângulo,,2,,,,"A avaliação de NPS não será mais respondida via chat e não integrará mais a estrutura ""obrigatória"" de mensageria de um curso.",,,,,,,,,,
+52,Retângulo,,2,,,,"O admin terá o poder de escolher quais cursos terão uma pesquisa de NPS e qual será sua escala de medida. A resposta da pesquisa será como os demais questionários, diretamente no navegador via smartzap view",,,,,,,,,,
+53,Imagem do usuário,Imagens do Usuário,2,,,,,,,,,,,,,,
+54,Grupo 1,,2,,,,,,,,,,,,,,
+55,Grupo 2,,2,,,,,,,,,,,,,,
